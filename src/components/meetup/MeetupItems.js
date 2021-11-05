@@ -10,7 +10,7 @@ function MeetupItems(props){
             <p>{props.dscp}</p>
         </div>
         <div>
-            <button>Fav</button>
+            <button className='btn'>Fav</button>
         </div>
     </li>
 }
